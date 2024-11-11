@@ -1,9 +1,6 @@
 import React from 'react';
 import "../css-files/project.css"
-import Link from 'next/link';
 import Image from 'next/image';
-
-import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa';
 
 const Project: React.FC = () => {
     const projects = [
